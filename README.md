@@ -3,4 +3,4 @@ In this repo, I added my customized Linux system settings so that I don't have t
 
 => Change permission of .sh files as executable
                         
-                        sudo chmod +x $filename
+    sudo chmod +x $filename
